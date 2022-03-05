@@ -21,8 +21,8 @@ https://docs.minapper.com/minfree/2304154
 （其他部分内容基本已经配置好了，感兴趣的可以自行阅读。）
 ## 后端
 WordPress后台地址：https://jacarandastock.top/wp-admin/
-账号名：jacaranda
-密码：xGbRK(xKZQ7W*oizZQ
+账号名：
+密码：
 （这个账号有管理员顶级权限，谨慎操作）
 后台上传文章后在前端刷新即可显示。
 
